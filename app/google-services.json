@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719643391589",
+    "firebase_url": "https://firestoreintro-f0a02.firebaseio.com",
+    "project_id": "firestoreintro-f0a02",
+    "storage_bucket": "firestoreintro-f0a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719643391589:android:1f6a9191c70ce50a50788c",
+        "android_client_info": {
+          "package_name": "com.shafigh.firestoreintro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719643391589-j3uf3tode341a5o00ck67j3kfof93cke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIEFqUZUmXZL0aXARdrQu7A4tQoEfNkfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719643391589-j3uf3tode341a5o00ck67j3kfof93cke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
